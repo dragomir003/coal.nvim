@@ -37,8 +37,8 @@ function M.setup(config)
 
     local palette = {
         selection = {
-            foreground = colors.smoky_black,
-            background = colors.anti_flash_white,
+            foreground = colors.anti_flash_white,
+            background = colors.dark_charcoal,
         },
         background = {
             medium = colors.smoky_black,
